@@ -1,0 +1,12 @@
+gt/
+gt_masked/
+inpainted/
+mask/
+lightning_logs/
+results/
+*.png
+*.csv
+*.yaml
+*.pt
+*.json
+*.safetensors
